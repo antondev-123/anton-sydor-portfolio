@@ -97,6 +97,6 @@ SOFTWARE.
 
 - Website - [Anton Sydor](https://anton-sydor.netlify.app/)
 
-Built in 2023
+Built in 2024
 
 [Back To The Top](#description) :
